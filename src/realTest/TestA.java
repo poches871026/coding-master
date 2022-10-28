@@ -1,4 +1,4 @@
-package realTest.a;
+package realTest;
 
 public class TestA {
 

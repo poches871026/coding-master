@@ -2,7 +2,7 @@ package codingTest.ex4;
 
 import java.util.Scanner;
 
-public class Ex4_2_s {
+public class Ex4_2_S {
 
     // 특정한 시각 안에 '3'이 포함되어 있는지의 여부
     public static boolean check(int h, int m, int s) {

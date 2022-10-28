@@ -2,7 +2,7 @@ package codingTest.ex5;
 
 import java.util.Scanner;
 
-public class Ex5_10_s {
+public class Ex5_10_S {
 
     public static int n, m;
     public static int[][] graph = new int[1000][1000];

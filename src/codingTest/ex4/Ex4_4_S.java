@@ -2,7 +2,7 @@ package codingTest.ex4;
 
 import java.util.Scanner;
 
-public class Ex4_4_s {
+public class Ex4_4_S {
 
     public static int n, m, x, y, direction;
     // 방문한 위치를 저장하기 위한 맵을 생성하여 0으로 초기화

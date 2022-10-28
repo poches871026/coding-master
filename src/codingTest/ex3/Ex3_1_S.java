@@ -1,6 +1,6 @@
 package codingTest.ex3;
 
-public class Ex3_1_s {
+public class Ex3_1_S {
 
     public static void main(String[] args) {
         int n = 1260;

@@ -3,7 +3,7 @@ package codingTest.ex3;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Ex3_2_s {
+public class Ex3_2_S {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

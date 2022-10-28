@@ -2,7 +2,7 @@ package codingTest.ex4;
 
 import java.util.Scanner;
 
-public class Ex4_3_s {
+public class Ex4_3_S {
 
 
     public static void main(String[] args) {
